@@ -15,7 +15,8 @@ body {
   color: var(--blue);
   position: absolute;
   top: 50%;
-  left: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   text-align: center;
   z-index: 2;
   animation: 5s anim-lineUp ease-out;
@@ -28,10 +29,7 @@ body {
   20% {
     opacity: 0;
   }
-  50% {
-    opacity: 1;
-    transform: translateY(0%);
-  }
+
   100% {
     opacity: 1;
     transform: translateY(0%);
@@ -49,12 +47,6 @@ body {
   backdrop-filter: blur(5px);
 }
 
-@media screen and (max-width: 1440px) {
-  
-  .header h1 {
-    left: 30%;
-  }
-}
 @media screen and (max-width: 1024px) {
 
   .header h1 {
@@ -90,9 +82,4 @@ body {
     font-size: 1rem;
   }
 }
-@media screen and (max-width: 425px) {
- 
-  .header h1 {
-    left: 20%;
-  }
-}
+

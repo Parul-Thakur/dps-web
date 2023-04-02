@@ -9,8 +9,8 @@
   background-color: var(--yellow);
   border-radius: 25%;
   position: fixed;
-  bottom: 5rem;
-  right: 5rem;
+  bottom: 3%;
+  right: 5%;
   z-index: 2;
   cursor: pointer;
 }

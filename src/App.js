@@ -3,7 +3,6 @@ import React from 'react'
 import './App.css'
 import Home from './pages/Home';
 import About from './pages/About';
-// import Information from './pages/Information';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import Academics from './pages/Academics';
 import Admission from './pages/Admission';
@@ -27,7 +26,6 @@ const App = () => {
       <Route path="/dps-web/about" element={<About/>}/>
       <Route path="/dps-web/about/teachers" element={<Teachers/>}/>
       <Route path="/dps-web/about/principal-message" element={<Readmore/>}/>
-      {/* <Route path="/information" element={<Information/>}/> */}
       <Route path="/dps-web/admission" element={<Admission/>}/>
       <Route path="/dps-web/admission/fees" element={<Fees/>}/>
       <Route path="/dps-web/academics" element={<Academics/>}/>
