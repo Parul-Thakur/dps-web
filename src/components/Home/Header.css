@@ -1,17 +1,18 @@
 html,
 body {
   margin: 0;
+  height: 100%;
 }
 
 .header {
   position: relative;
   width: 100%;
-  height: 900px;
+  height: 100vh;
   margin: 0 auto;
   font-family: "Cinzel", serif;
 }
 
-.header h1 {
+.header .animate-charcter {
   color: var(--blue);
   position: absolute;
   top: 50%;
@@ -19,37 +20,39 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
   z-index: 2;
-  animation: 5s anim-lineUp ease-out;
+  border: 4px double var(--blue);
+  border-width: 4px 0;
+  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+  padding: 1.5em 0em;
+  /* font: 700 4em/1 "Cinzel", sans-serif; */
+  background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+  background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: aitf 80s linear infinite;
+  /* transform: translate3d(0, 0, 0); */
+  backface-visibility: hidden;
 }
-@keyframes anim-lineUp {
+@keyframes aitf {
   0% {
-    opacity: 0;
-    transform: translateY(80%);
+    background-position: 0% 50%;
   }
-  20% {
-    opacity: 0;
-  }
-
   100% {
-    opacity: 1;
-    transform: translateY(0%);
+    background-position: 100% 50%;
   }
 }
 
-.header h1 {
-  font-size: 2rem;
-}
 .header span {
   font-size: 8rem;
   letter-spacing: 1rem;
 }
-.header .slide{
+.header .slide {
   backdrop-filter: blur(5px);
+
 }
 
 @media screen and (max-width: 1024px) {
-
-  .header h1 {
+  .header .animate-charcter {
     font-size: 1.5rem;
   }
   .header span {
@@ -57,9 +60,9 @@ body {
   }
 }
 @media screen and (max-width: 768px) {
-  .header {
+  /* .header {
     height: 500px;
-  }
+  } */
 
   .header span {
     font-size: 3rem;
@@ -68,18 +71,16 @@ body {
   .header2 .slider {
     padding: 0rem 1rem;
     width: 100%;
-    height: 700px;
+    /* height: 700px; */
     flex: 100%;
   }
 }
 @media screen and (max-width: 500px) {
-  
   .header span {
     font-size: 3rem;
     letter-spacing: 0.5rem;
   }
-  .header h1 {
+  .header .animate-charcter {
     font-size: 1rem;
   }
 }
-

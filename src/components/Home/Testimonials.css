@@ -25,8 +25,8 @@
 }
 /* testimonial parents image width: 1600 and height:2100======== */
 .testimonialImage img {
-  width: 50%;
-  height: 10%;
+  width: 15rem;
+  height: 15rem;
   object-fit: cover;
   border-radius: 50%;
 }
@@ -41,7 +41,7 @@
   font-family: "Cinzel", serif;
 }
 .voices h1 {
-  color: rgb(238, 215, 151);
+  color: var(--yellow);
   font-size: 3rem;
   font-family: "Cinzel", serif;
   font-weight: 600;
@@ -102,10 +102,7 @@
     flex-wrap: wrap;
     gap: 5rem;
   }
-  .testimonialImage img {
-    width: 40%;
-    height: 20%;
-  }
+
   .next {
     top: 50%;
     right: 10%;
@@ -133,7 +130,9 @@
   .voices p {
     font-size: 0.8rem;
   }
+  .testimonialImage img {
+    width: 10rem;
+    height: 10rem;
+  }
 }
 
-@media screen and (max-width: 500px) {
-}

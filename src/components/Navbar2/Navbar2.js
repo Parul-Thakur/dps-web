@@ -5,7 +5,6 @@ import { SidebarData } from "../Home/SidebarData";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IconContext } from "react-icons/lib";
 import { RxCross1 } from "react-icons/rx";
-// import logo from "../../assets/Group 1.png";
 
 const Navbar2 = () => {
   const [showNavbar, setShowNavbar] = useState(false);
@@ -64,21 +63,7 @@ const Navbar2 = () => {
     </>
   );
 };
-// };
+
 export default Navbar2;
 
-// const [colorChange, setColorchange] = useState(false);
-// const changeNavbarColor = () => {
-//   if (window.scrollY <= 100) {
-//     setColorchange(true);
-//   } else {
-//     setColorchange(false);
-//   }
-// };
-// window.addEventListener("scroll", changeNavbarColor);
 
-// const navLinkStyles = ({ isActive }) => {
-//   return {
-//     color: isActive ? "#e3d53e" : "white",
-//   };
-// };
