@@ -31,22 +31,21 @@
 
 .factData {
   padding: 3rem 5rem;
-  /* height: 50%; */
   background-color: rgb(208, 171, 37);
 }
 .factData h2 {
-  font-size: 2rem;
+  font-size: var(--head2);
   letter-spacing: 5px;
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-1);
 }
 .factData h1 {
-  font-size: 3rem;
+  font-size: var(--head1);
   letter-spacing: 10px;
   color: rgb(29, 22, 101);
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-1);
 }
 .factData p {
-  font-size: 1rem;
+  font-size: var(--parah);
   line-height: 2;
   text-align: left;
 }

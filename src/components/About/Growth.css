@@ -21,17 +21,17 @@
   padding: 10%;
 }
 .growthContent h1 {
-  font-family: "Cinzel", serif;
-  font-size: 2rem;
+  font-family: var(--font-family-1);
+  font-size: var(--head2);
   font-weight: bold;
   letter-spacing: 2px;
 }
 .growthContent p {
   line-height: 1.5;
-  font-size: 1rem;
+  font-size:var(--parah);
 }
 .growthContent a {
-  font-size: 1rem;
+  font-size: var(--parah);
   color: #000000;
   font-weight: 600;
   text-decoration: none;
@@ -41,7 +41,7 @@
   position: relative;
   top: 2px;
 }
-@media only screen and (max-width: 1900px) {
+@media only screen and (max-width: 1440px) {
   .growthCard {
     display: block;
     flex: 100%;

@@ -5,7 +5,7 @@
   justify-content: center;
   height: 950px;
   margin: 2rem 0;
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-1);
 }
 
 .welcomeImage {
@@ -55,34 +55,34 @@
 }
 .welcome-text h1 {
   font-weight: bold;
-  font-size: 2rem;
+  font-size: var(--head2);
   letter-spacing: 5px;
   color: var(--blue);
 
   width: 60%;
 }
 .welcome-text p {
-  font-size: 1rem;
+  font-size: var(--parah);
   color: black;
   line-height: 1.8;
   text-align: left;
   width: 60%;
-  font-family: "Montagu Slab", serif;
+  font-family: var(--font-family-2);
 }
 .explore a {
   text-decoration: none;
-  color: #980e0e;
-  font-size: 1rem;
+  color: var(--maroon);
+  font-size: var(--parah);
   font-weight: 600;
-  border: 1px solid #980e0e;
+  border: 1px solid var(--maroon);
   border-radius: 100px;
   padding: 0.8rem 2rem;
   letter-spacing: 2px;
   cursor: pointer;
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-1);
 }
 .explore a:hover {
-  background-color: #980e0e;
+  background-color: var(--maroon);
   color: white;
 }
 

@@ -5,7 +5,6 @@
   width: 90%;
   margin: auto;
   padding: 6% 3%;
-  font-family: "Roboto", serif;
   gap: 1rem;
 }
 .early1{
@@ -13,14 +12,14 @@
 }
 
 .early1 h1 {
-  font-size: 2rem;
-  font-family: "Cinzel", serif;
+  font-size: var(--head2);
+  font-family: var(--font-family-1);
   color: var(--blue);
 }
-.early1 p {
-  font-size: 1rem;
-  font-family: "Roboto", serif;
+.early1>p {
+  font-size: var(--parah);
   line-height: 2;
+  text-align: left;  text-align: left;
 }
 .early2{
   flex: 30%;
@@ -34,10 +33,10 @@
 .early3{
   flex: 40%;
 }
-.early3 p {
-  font-size: 1rem;
-  font-family: "Roboto", serif;
+.early3>p {
+  font-size: var(--parah);
   line-height: 2;
+  text-align: left;
 }
 
 @media only screen and (max-width: 1024px){

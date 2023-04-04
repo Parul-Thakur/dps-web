@@ -42,7 +42,7 @@ const Testimonials = () => {
                   {index === currentSlide && (
                     <div className="testimonialRow">
                       <div className="col voices">
-                        <h3>{data.heading2}</h3>
+                        <h2>{data.heading2}</h2>
                         <h1>{data.heading1}</h1>
                         <div className="descr">
                           <p>{data.desc}</p>

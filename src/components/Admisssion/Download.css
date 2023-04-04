@@ -2,15 +2,17 @@
   background-color: rgb(26, 26, 92);
   color: white;
   height: auto;
-  text-align: center;
+  width: 100%;
   padding: 5% 0;
-  font-family: "Cinzel", serif;
 }
 
-.funding p {
-  font-size: 2rem;
+.funding > p {
+  font-size: var(--head2);
   letter-spacing: 2px;
   line-height: 2;
+  width: 70%;
+  margin: 0 auto;
+
 }
 .funding span {
   color: var(--yellow);
@@ -31,34 +33,36 @@
   width: 60%;
   height: 30%;
 }
-.links {
+.usefulDownloads .links {
   flex: 50%;
   letter-spacing: 3px;
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-1);
+  
 }
-.links h1 {
-  font-size: 2rem;
+.usefulDownloads .links > h1 {
+  font-size: var(--head2);
   color: var(--blue);
 }
-.links a,
-p {
-  font-size: 1.5rem;
+.usefulDownloads .links >.link,.usefulLinks
+ {
+  font-size: var(--parah);
+  text-align: left;
+  font-family: var(--font-family-2);
 }
-.links a {
+.links .link {
   color: rgb(94, 94, 197);
 }
-.links a:hover {
+.links .link:hover {
   color: var(--yellow);
 }
-.icon3{
+.icon3 {
   cursor: pointer;
+  padding-right: 1rem;
 }
-.icon3:hover{
-  background-color: var(--blue);
-}
+
 @media only screen and (max-width: 1024px) {
   .funding {
-    padding:  3rem;
+    padding: 3rem;
   }
   .funding p {
     font-size: 1.5rem;
@@ -76,7 +80,7 @@ p {
   }
   .links {
     flex: 100%;
-   text-align: center;
+    text-align: center;
   }
   .links h1 {
     font-size: 1.5rem;
@@ -84,9 +88,7 @@ p {
   .links a,
   p {
     font-size: 1rem;
-    
   }
-
 }
 @media only screen and (max-width: 500px) {
   .funding p {

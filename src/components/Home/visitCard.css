@@ -37,8 +37,8 @@
   left: 5rem;
   bottom: 3rem;
   color: white;
-  font-size: 2rem;
-  font-family: "Cinzel", serif;
+  font-size: var(--head2);
+  font-family: var(--font-family-1);
   font-weight: 500;
 }
 
@@ -66,8 +66,8 @@
 .visitBtn a {
   text-decoration: none;
   color: rgb(255, 255, 255);
-  font-size: .7rem;
-  font-family: "Cinzel", serif;
+  font-size: var(--link);
+  font-family: var(--font-family-1);
   text-transform: uppercase;
 }
 .visitBtn:hover {

@@ -21,7 +21,7 @@ const CardCarousel = () => {
                   <img src={data.imgSrc} alt="activities" key={index} />
                   <figcaption>
                     <div>
-                     <h1>{data.title}</h1>  <br /> 
+                     <h1>{data.title}</h1>  
                       <span className="cardBtn">
                         <Link to="/dps-web/activities" className="cardLink">
                           see More

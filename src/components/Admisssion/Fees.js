@@ -118,12 +118,6 @@ const Fees = () => {
                 <td data-label="ANNUAL CHARGE(july)">₹400</td>
               </tr>
               <tr>
-                <td data-label="3)" className="head">
-                  Middle School
-                </td>
-              
-              </tr>
-              <tr>
                 <td data-label="CLASS">Class 5 </td>
 
                 <td data-label="PER MONTH">₹300</td>
@@ -133,12 +127,19 @@ const Fees = () => {
                 <td data-label="ANNUAL CHARGE(july)">₹400</td>
               </tr>
               <tr>
+                <td data-label="3)" className="head">
+                  Middle School
+                </td>
+              
+              </tr>
+           
+              <tr>
                 <td data-label="CLASS">Class 6 </td>
 
                 <td data-label="PER MONTH">₹350</td>
                 <td data-label="PER ANNUM">₹5000</td>
                 <td data-label="COMPUTER FEE(4 month)">₹600</td>
-                <td data-label="EXAM FEE(half yearly & annual)">₹400</td>
+                <td data-label="EXAM FEE (half yearly & annual)">₹400</td>
                 <td data-label="ANNUAL CHARGE(july)">₹400</td>
               </tr>
               <tr>

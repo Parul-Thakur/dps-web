@@ -21,8 +21,8 @@ const Gallery = () => {
             <div className="grid-item" key={index}>
               <img src={item.imgSrc} alt="galleryimage" />
               <Link to={`${item.title.toLowerCase().replace(/ /g, "-")}`}>
-                <h2>{item.title}</h2>
-                <p>{item.date}</p>
+                <h2 className="galleryTitle">{item.title}</h2>
+                <p className="galleryDate">{item.date}</p>
               </Link>
             </div>
           ))}

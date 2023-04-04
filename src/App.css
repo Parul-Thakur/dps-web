@@ -1,11 +1,8 @@
-*{ 
-   /* outline: 1px solid limegreen; */
-/* overscroll-behavior: none */
-  }
+* {
+  /* outline: 1px solid rgb(121, 242, 57); */
+}
 
-
-  @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
-
+@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
 
 @import url("https://fonts.googleapis.com/css2?family=Vibur&display=swap");
 
@@ -14,15 +11,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&display=swap");
 
 :root {
+  --font-family-1:"Cinzel", serif;
+  --font-family-2:"Montagu Slab", serif;
   --blue: #1b0853;
   --yellow: #daab2b;
   --beige: #b37c0d1e;
+  --maroon:#980e0e;
+  --head1: 3rem;
+  --head2: 2rem;
+  --parah: 1rem;
+  --link: 0.7rem;
 }
-/* font-family: "Cinzel", serif; */
-
-body{
-  font-family: "Montagu Slab", serif;
-  /* font-family: "Cinzel", serif; */
+/* --font1:var(--font-family-1);
+  --font2:var(--font-family-2)
+  --maroon:#980e0e; */
+body {
+  font-family:var(--font2) ;
 }
 .loading {
   /* filter: blur(10px); */
@@ -32,6 +36,3 @@ body{
   /* filter: blur(0px); */
   transition: filter 0.5s linear;
 }
-
-
-/* testimonial parents image width: 1600 and height:2100======== */

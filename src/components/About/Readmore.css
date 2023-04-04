@@ -10,7 +10,7 @@
 }
 .readMore p{
     font-family: 'Kalam', cursive;
-    font-size: 1.3rem;
+    font-size: var(--parah);
     line-height: 2;
     width: 70%;
     margin: 0 auto;

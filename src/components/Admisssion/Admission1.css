@@ -15,18 +15,18 @@
   padding: 5% 0;
 }
 .admissionContent h1 {
-  font-size: 2rem;
-  font-family: "Cinzel", serif;
+  font-size: var(--head1);
+  font-family: var(--font-family-1);
 
 }
 
 .admissionContent h3 {
-  font-size: 1.5rem;
+  font-size: var(--head2);
   line-height: 1.5;
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-1);
 }
 .admissionContent p {
-  font-size: 1rem;
+  font-size: var(--parah);
   line-height: 2;
 }
 

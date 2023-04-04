@@ -30,21 +30,21 @@
 }
 
 .headName h1 {
-  font-size: 3rem;
-  font-family: "Cinzel", serif;
+  font-size: var(--head1);
+  font-family: var(--font-family-1);
   color: var(--blue);
   font-weight: bold;
   padding-right: 2rem;
 }
 .headName p {
-  font-size: 1.5rem;
+  font-size: var(--head2);
   font-family: "Kalam", cursive;
   color: rgb(164, 61, 61);
   text-align: left;
 }
 .principaHeading {
-  font-size: 1.5rem;
-  font-family: "Cinzel", serif;
+  font-size: var(--head2);
+  font-family: var(--font-family-1);
   color: var(--blue);
   text-align: left;
 }
@@ -88,14 +88,15 @@
 }
 
 .aboutSchool > p {
-  font-size: 1rem;
+  font-size: var(--parah);
   line-height: 2;
   font-weight: 600;
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-2);
   color: var(--blue);
+  
 }
 .icon2 {
-  font-size: 1.8rem;
+  font-size: var(--head2);
   position: absolute;
   bottom: -5px;
 }

@@ -17,7 +17,7 @@
  
 }
 .menuBars2 {
-  font-size: 2rem;
+  font-size: var(--head2);
   position: absolute;
   top: 10%;
   right: 5%;
@@ -75,13 +75,13 @@ li {
 .navMenu ul li a {
   text-decoration: none;
   color: white;
-  font-size: 3rem;
+  font-size: var(--head1);
   font-weight: 700;
   padding: 3% 2%;
   display: inline-flex;
   transition: 0.5s;
   letter-spacing: 5px;
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-1);
 }
 
 

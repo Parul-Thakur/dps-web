@@ -9,38 +9,32 @@ body {
   width: 100%;
   height: 100vh;
   margin: 0 auto;
-  font-family: "Cinzel", serif;
+  font-family: var(--font-family-1);
 }
 
 .header .animate-charcter {
-  color: var(--blue);
   position: absolute;
   top: 50%;
-  left: 50%;
+  left:50%;
   transform: translate(-50%, -50%);
   text-align: center;
   z-index: 2;
-  border: 4px double var(--blue);
-  border-width: 4px 0;
-  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
   padding: 1.5em 0em;
-  /* font: 700 4em/1 "Cinzel", sans-serif; */
-  background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+  background-image: linear-gradient(90deg, rgb(220, 58, 58),var(--yellow), rgb(118, 9, 9));
   background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: aitf 80s linear infinite;
-  /* transform: translate3d(0, 0, 0); */
-  backface-visibility: hidden;
+  color: transparent;
+  animation: scale 4s ease-in-out ;
 }
-@keyframes aitf {
+@keyframes scale {
   0% {
-    background-position: 0% 50%;
+    transform: translate(-50%, -50%) scale(.5);
   }
+
   100% {
-    background-position: 100% 50%;
+    transform: translate(-50%, -50%) scale(1);
   }
 }
+
 
 .header span {
   font-size: 8rem;
@@ -48,7 +42,6 @@ body {
 }
 .header .slide {
   backdrop-filter: blur(5px);
-
 }
 
 @media screen and (max-width: 1024px) {

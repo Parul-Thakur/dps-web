@@ -8,7 +8,7 @@ const Download = () => {
     <div className="download">
       <IconContext.Provider value={{ color: "#daab2b", className: "icon3" }}>
         <div className="funding">
-          <p>
+          <p >
             Please check eligibility of the Free Early Education Entitlement{" "}
             <br /> on the Nursery <span> Government Funding</span> page for
             Early Years places.
@@ -28,21 +28,21 @@ const Download = () => {
           </div>
           <div className="links">
             <h1>Useful Links</h1>
-            <p>
-              {" "}
-              <BsFillArrowRightSquareFill />{" "}
+            <p className="usefulLinks">
+         
+              <BsFillArrowRightSquareFill /> 
               <a
                 href="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fadmission%2FAdmission%20Form.pdf?alt=media&token=79ccc509-6bf6-43e0-aaa5-87239dea789c"
                 download="FileName.pdf"
                 className="link"
               >
-                Application form
+                 Application form
               </a>
             </p>
 
-            <p>
-              {" "}
-              <BsFillArrowRightSquareFill />{" "}
+            <p className="usefulLinks">
+             
+              <BsFillArrowRightSquareFill />
               <NavLink to="/dps-web/admission/fees" className="link">
                 Fees
               </NavLink>
