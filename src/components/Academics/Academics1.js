@@ -4,7 +4,7 @@ const Academics1 = () => {
   return (
     <>
     <div className="academicsBanner">
-      <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2Fteaching.webp?alt=media&token=a0130282-1be1-451d-9a23-b88ad9ffc72a" alt="" />
+      <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fdrawing%20(1).jpg?alt=media&token=ece3b169-f448-4775-8cc9-58d62d1c2a34" alt="" />
     </div>
     <div className="academics1">
       <h1>Academics</h1>

@@ -26,7 +26,7 @@ const Button = () => {
           <RxCross1 onClick={showSidebar} className="menuBars2"></RxCross1>
           <div className="menuImage">
             <img
-              src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FmainImage%2Fchildrenback_11zon%20(1).webp?alt=media&token=e7684118-402d-4ada-af5f-8b796f3f1031"
+              src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FmainImage%2Fchildrenback.webp?alt=media&token=dbcc6f9e-914e-4396-bdde-419682f72dd1"
               alt="menuImage"
 
             />

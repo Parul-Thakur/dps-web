@@ -36,6 +36,7 @@
   opacity: 1;
   transition: 0.2s ease-in-out;
 }
+
 @media screen and (max-width: 768px) {
   .homeNav {
     height: 7rem;

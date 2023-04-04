@@ -19,7 +19,7 @@ const Slider = () => {
       <Fade {...properties}>
         {SliderData.map((slide, index) => {
           return (
-            <div className="">
+            <div >
               <ProgressiveImage src={slide.imgSrc} placeholder={slide.blurhash}>
                 {(src, loading) => (
                   <img
