@@ -43,7 +43,7 @@ const Download = () => {
             <p className="usefulLinks">
              
               <BsFillArrowRightSquareFill />
-              <NavLink to="/dps-web/admission/fees" className="link">
+              <NavLink to="/admission/fees" className="link">
                 Fees
               </NavLink>
             </p>

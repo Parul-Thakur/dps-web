@@ -23,7 +23,7 @@ const CardCarousel = () => {
                     <div>
                      <h1>{data.title}</h1>  
                       <span className="cardBtn">
-                        <Link to="/dps-web/activities" className="cardLink">
+                        <Link to="/activities" className="cardLink">
                           see More
                         </Link>
                       </span>
@@ -36,7 +36,7 @@ const CardCarousel = () => {
         })}
       </div>
       <p className="cardUpdates">
-        <Link to="/dps-web/activities"> SEE ALL OUR UPDATES</Link>
+        <Link to="/activities"> SEE ALL OUR UPDATES</Link>
       </p>
     </div>
   );

@@ -29,7 +29,7 @@ const Navbar = () => {
       <header className="navbar">
         <nav className="homeNav">
           <div className={scrolled ? "navLogo scrolled" : "navLogo"}>
-            <a href="/dps-web">
+            <a href="/">
               <ProgressiveImage src={image1} placeholder={image2}>
                 {(src, loading) => (
                   <img

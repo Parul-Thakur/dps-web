@@ -7,7 +7,7 @@ import { getFirestore} from 'firebase/firestore'
 const firebaseConfig = {
     apiKey: "AIzaSyBvZUfRZchCzXG1pzK0XsC_cUJN0_6P9Ek",
     authDomain: "dps-web-cc638.firebaseapp.com",
-    databaseURL: "https://dps-web-cc638-default-rtdb.firebaseio.com",
+    databaseURL: "https://-cc638-default-rtdb.firebaseio.com",
     projectId: "dps-web-cc638",
     storageBucket: "dps-web-cc638.appspot.com",
     messagingSenderId: "763705811878",

@@ -40,7 +40,7 @@ const DivineWelcome = () => {
         <div className="textArea">
           <h1>Explore Divine</h1>
         <p>"At Divine, we believe that education is the key to unlocking a bright future, and we are committed to providing the best possible learning environment for our students. We are thrilled that you have taken the time to visit our website. As an educational institution, our goal is to provide a nurturing and stimulating environment for our students to learn, grow, and thrive. We offer a wide range of programs and activities designed to foster intellectual curiosity, creativity, and social responsibility. Whether you are a parent, student, or community member, we hope you find our website informative and engaging. Thank you for your interest in Divine."</p> <br />
-        <p className="explore"><Link to = "/dps-web/about"> learn more</Link></p>
+        <p className="explore"><Link to = "/about"> learn more</Link></p>
         </div>
       </div>
     </div>
