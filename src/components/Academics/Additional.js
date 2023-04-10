@@ -42,28 +42,28 @@ const Additional = () => {
         <div className="column-one">
           <img
             src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Factivity%20(1)%20(1).jpg?alt=media&token=ef82efff-2fc9-4825-a32c-b120c91b19cb"
-            alt=""
+            alt="kids"
           />
         </div>
         <div className="column-two">
           <img
             src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fcarrom%20board_11zon.jpg?alt=media&token=17e95c95-bef1-42f0-9a7a-40332f6ade15"
-            alt=""
+            alt="kids"
           />
         
         <img
           src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fpaimtingkids_11zon.jpg?alt=media&token=b26c8871-a3a1-4b73-95f1-0c8439501c12"
-          alt=""
+          alt="kids"
         />
         </div>
         <div className="column-three">
           <img
             src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fplanting.webp?alt=media&token=fa15fb00-56c0-4b77-81e4-5fcfae9beacb"
-            alt=""
+            alt="kids"
           />
           <img
             src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fdrawing%20(1)%20(1).jpg?alt=media&token=6d855dcb-8abf-4a22-b87a-120a36472327"
-            alt=""
+            alt="kids"
           />
         </div>
       </div>

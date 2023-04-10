@@ -17,7 +17,7 @@ const Fees = () => {
         <div className="fees">
           <img
             src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Ffees.jpg?alt=media&token=26a8c070-d43c-47a1-9cd2-11c316a0cd3e"
-            alt=""
+            alt="fees-banner"
           />
         </div>
         <div className="feeTable">

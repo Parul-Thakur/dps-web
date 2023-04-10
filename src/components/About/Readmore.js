@@ -16,7 +16,7 @@ const Readmore = () => {
       <div className="readmoreBanner">
         <img
           src="https://img.freepik.com/free-vector/unhappy-mom-talking-with-angry-principal-director-about-son-isolated-flat-illustration_74855-11176.jpg"
-          alt=""
+          alt="readmore-banner"
         />
       </div>
       <div className="readMore">
