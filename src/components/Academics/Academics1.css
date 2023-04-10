@@ -34,12 +34,12 @@
   text-align: center;
 }
 .academics1>p {
-  font-size: var(--parah);
+  font-size: var(--head3);
   font-weight: bold;
   text-align: left;
 }
 ol {
-  font-size: var(--parah);
+  font-size: var(--head3);
   line-height: 2;
   color: rgb(82, 72, 59);
 }
@@ -56,10 +56,10 @@ ol {
     font-size: 1.5rem;
   }
   .academics1 p {
-    font-size: .7rem;
+    font-size: 1rem;
   }
   ol {
-    font-size: .7rem;
+    font-size: 1rem;
     line-height: 2;
   }
 }

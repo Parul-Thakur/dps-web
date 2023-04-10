@@ -1,4 +1,4 @@
-.activityBanner {
+/* .activityBanner {
   width: 100%;
   height: 700px;
   font-family: var(--font-family-1);
@@ -7,7 +7,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-}
+} */
 .activityGallery {
   font-family: var(--font-family-1);
 }
@@ -62,7 +62,7 @@
   color: var(--yellow);
 }
 .galleryTitle {
-  font-size: var(--head2);
+  font-size: var(--head3);
   font-weight: 800;
 }
 .galleryDate {

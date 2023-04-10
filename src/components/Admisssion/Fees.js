@@ -48,31 +48,31 @@ const Fees = () => {
               </tr>
               <tr>
                 <td data-label="CLASS">Play Group</td>
-                <td data-label="PER MONTH">₹300</td>
-                <td data-label="PER ANNUM">₹4400</td>
+                <td data-label="PER MONTH">₹350</td>
+                <td data-label="PER ANNUM">₹5150</td>
                 <td data-label="COMPUTER FEE(4 month)"> ---</td>
                 <td data-label="EXAM FEE (half yearly & annual)">
-                  ₹400
+                  ₹450
                 </td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="CLASS">Junior Nursery</td>
-                <td data-label="PER MONTH">₹300</td>
-                <td data-label="PER ANNUM">₹4400</td>
+                <td data-label="PER MONTH">₹350</td>
+                <td data-label="PER ANNUM">₹5150</td>
                 <td data-label="COMPUTER FEE (4 month)">---</td>
                 <td data-label="EXAM FEE (half yearly & annual)">
-                  ₹400
+                  ₹450
                 </td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="CLASS">Senior Nursery </td>
-                <td data-label="PER MONTH">₹300</td>
-                <td data-label="PER ANNUM">₹4400</td>
+                <td data-label="PER MONTH">₹350</td>
+                <td data-label="PER ANNUM">₹5150</td>
                 <td data-label="COMPUTER FEE(4 month)">---</td>
-                <td data-label="EXAM FEE(half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="EXAM FEE(half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="2)" className="head">
@@ -83,48 +83,48 @@ const Fees = () => {
               <tr>
                 <td data-label="CLASS">Class 1 </td>
 
-                <td data-label="PER MONTH">₹300</td>
-                <td data-label="PER ANNUM">₹4400</td>
+                <td data-label="PER MONTH">₹350</td>
+                <td data-label="PER ANNUM">₹5150</td>
                 <td data-label="COMPUTER FEE(4 month)">---</td>
-                <td data-label="EXAM FEE (half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="EXAM FEE (half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="CLASS">Class 2 </td>
 
-                <td data-label="PER MONTH">₹300</td>
-                <td data-label="PER ANNUM">₹4400</td>
+                <td data-label="PER MONTH">₹350</td>
+                <td data-label="PER ANNUM">₹5150</td>
                 <td data-label="COMPUTER FEE(4 month)">---</td>
-                <td data-label="EXAM FEE(half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="EXAM FEE(half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
         
               <tr>
                 <td data-label="CLASS">Class 3 </td>
 
-                <td data-label="PER MONTH">₹300</td>
-                <td data-label="PER ANNUM">₹4400</td>
-                <td data-label="COMPUTER FEE(4 month)">₹500</td>
-                <td data-label="EXAM FEE(half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="PER MONTH">₹350</td>
+                <td data-label="PER ANNUM">₹5750</td>
+                <td data-label="COMPUTER FEE(4 month)">₹600</td>
+                <td data-label="EXAM FEE(half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="CLASS">Class 4 </td>
 
-                <td data-label="PER MONTH">₹300</td>
-                <td data-label="PER ANNUM">₹4400</td>
-                <td data-label="COMPUTER FEE(4 month)">₹500</td>
-                <td data-label="EXAM FEE(half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="PER MONTH">₹350</td>
+                <td data-label="PER ANNUM">₹5750</td>
+                <td data-label="COMPUTER FEE(4 month)">₹600</td>
+                <td data-label="EXAM FEE(half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="CLASS">Class 5 </td>
 
-                <td data-label="PER MONTH">₹300</td>
-                <td data-label="PER ANNUM">₹4400</td>
+                <td data-label="PER MONTH">₹350</td>
+                <td data-label="PER ANNUM">₹5750</td>
                 <td data-label="COMPUTER FEE(4 month)">₹500</td>
-                <td data-label="EXAM FEE(half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="EXAM FEE(half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="3)" className="head">
@@ -136,29 +136,29 @@ const Fees = () => {
               <tr>
                 <td data-label="CLASS">Class 6 </td>
 
-                <td data-label="PER MONTH">₹350</td>
-                <td data-label="PER ANNUM">₹5000</td>
-                <td data-label="COMPUTER FEE(4 month)">₹600</td>
-                <td data-label="EXAM FEE (half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="PER MONTH">₹400</td>
+                <td data-label="PER ANNUM">₹6450</td>
+                <td data-label="COMPUTER FEE(4 month)">₹700</td>
+                <td data-label="EXAM FEE (half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="CLASS">Class 7 </td>
 
-                <td data-label="PER MONTH">₹350</td>
-                <td data-label="PER ANNUM">₹5000</td>
-                <td data-label="COMPUTER FEE (4 month)">₹600</td>
-                <td data-label="EXAM FEE(half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="PER MONTH">₹400</td>
+                <td data-label="PER ANNUM">₹6450</td>
+                <td data-label="COMPUTER FEE (4 month)">₹700</td>
+                <td data-label="EXAM FEE(half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
               <tr>
                 <td data-label="CLASS">Class 8 </td>
 
-                <td data-label="PER MONTH" >₹350</td>
-                <td data-label="PER ANNUM">₹5000</td>
-                <td data-label="COMPUTER FEE(4 month)">₹600</td>
-                <td data-label="EXAM FEE(half yearly & annual)">₹400</td>
-                <td data-label="ANNUAL CHARGE(july)">₹400</td>
+                <td data-label="PER MONTH" >₹400</td>
+                <td data-label="PER ANNUM">₹6450</td>
+                <td data-label="COMPUTER FEE(4 month)">₹700</td>
+                <td data-label="EXAM FEE(half yearly & annual)">₹450</td>
+                <td data-label="ANNUAL CHARGE(july)">₹500</td>
               </tr>
             </tbody>
           </table>
@@ -172,27 +172,33 @@ const Fees = () => {
           <div className="uniformList">
             <h2>SHIRTS</h2>
             <ol>
-              <li>Oxford blouse with “Cor Jesu” (must be tucked in) OR</li>
-              <li>Red/Navy polos with “Cor Jesu” (long- or short-sleeved)</li>
+              <li>Creme shirt (must be tucked in) </li>
+              <li>Blue Shirt (Wed, Sat) </li>
+            </ol>
+            <h2>SKIRTS/PANTS</h2>
+            <ol>
+              <li>Check skirt/ blue or grey pant </li>
+              <li>White skirt/ white pant (Wed, Sat) </li>
             </ol>
             <h2>SWEATERS / JACKETS</h2>
             <ol>
-              <li>navy sweater with CJ logo (crewneck or cardigan) OR</li>
-              <li>Navy jacket with “Cor Jesu” OR</li>
+              <li>Grey sweater with divine logo (crewneck or cardigan) OR</li>
+              <li>Navy jacket  </li>
             </ol>
             <h2>TIGHTS / LEGGINGS</h2>
             <ol>
-              <li>Navy tights OR</li>
               <li>Black leggings</li>
+              <li>White leggings (Wed, Sat)</li>
             </ol>
             <h2>SOCKS</h2>
             <ol>
-              <li>Navy knee socks OR</li>
-              <li>No-show white socks (no logos/no colors)</li>
+              <li>white socks </li>
+             
             </ol>
             <h2>SHOES</h2>
             <ol>
-              <li>Solid white or gray tennis shoes (no mid- or high-tops)</li>
+              <li>Black Shoes</li>
+              <li>White Shoes (Wed, Sat)</li>
             </ol>
           </div>
         </div>

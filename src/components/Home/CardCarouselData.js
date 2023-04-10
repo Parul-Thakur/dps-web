@@ -2,7 +2,7 @@ export const cardData = [
     {
         id:1,
         imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FmainImage%2F26jan1.webp?alt=media&token=cef92488-5819-4fb7-a143-70486144eae4",
-        title:"independence day",
+        title:"republic day",
         
     },
     {

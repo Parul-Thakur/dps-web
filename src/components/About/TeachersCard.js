@@ -25,7 +25,7 @@ const TeachersCard = () => {
           <h2>{item.name}</h2>
           <p>
             {" "}
-            <span className="title">Title:</span> {item.qualification}
+            <span className="title">Qualification:</span> {item.qualification}
           </p>
         </div>
       ))}

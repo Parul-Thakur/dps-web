@@ -4,19 +4,19 @@
 
 .teachersCard h2 {
     font-family: var(--font-family-1);
-    font-size: var(--head2);
+    font-size: var(--head3);
     font-weight: 700;
     color: rgb(0, 0, 0);
 }
 .teachersCard p .title{
     font-size: var(--parah);
     font-weight: 900;
-    color: rgb(95, 93, 93);
+    color: grey;
 }
 .teachersCard p {
     font-size: var(--parah);
     font-weight: 600;
-    color: rgb(171, 135, 53);
+    color: var(--maroon);
 }
 
 .teachersCard img{

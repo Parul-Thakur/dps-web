@@ -10,7 +10,7 @@ const Growth2 = () => {
             value={{ color: "black", className: "icon3" }}
           >
       <div className="growth g1">
-        <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FPXL_20221022_060034724%20(1).jpg?alt=media&token=22a8f669-f34e-4435-b522-a4bfc1bb1963" alt="" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fadmission%2Fclassroom_11zon.jpg?alt=media&token=d4b80179-ac38-4684-a2c0-ad92a7eb4bb2" alt="" />
         <div className="growthContent">
           <h1>Open Mornings</h1>
           <p>
@@ -21,7 +21,7 @@ const Growth2 = () => {
         </div>
       </div>
       <div className="growth g2">
-      <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2Fkid.jpg?alt=media&token=c2abbc6f-95e4-4d6a-a50d-3e5ecb4fe5f9" alt="" />
+      <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fadmission%2Fgate%20(1).jpg?alt=media&token=dd87a2db-4f4a-48b7-bd50-3d88db24312e" alt="" />
         <div className="growthContent">
         <h1>Admission Process</h1>
         <p>
@@ -32,7 +32,7 @@ const Growth2 = () => {
       </div>
       </div>
       <div className="growth g3">
-      <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2FBanner.jpg?alt=media&token=1d6d4c62-6feb-449b-9abd-412b0ec34984" alt="" />
+      <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fadmission%2Fpose.jpg?alt=media&token=0ecd0496-87a5-4713-9890-9776abf99920" alt="" />
         <div className="growthContent">
         <h1>Uniforms</h1>
         <p>

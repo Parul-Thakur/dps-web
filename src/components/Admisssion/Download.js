@@ -22,7 +22,7 @@ const Download = () => {
         <div className="usefulDownloads">
           <div className="usefulImg">
             <img
-              src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2FDSCN0174%20(1).jpg?alt=media&token=90948ec4-e7d5-4bd7-8fc9-86dab40cee9b"
+              src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fadmission%2Fboardkids_11zon.jpg?alt=media&token=4c840099-b266-46a8-ab09-8f8dfb6f7244"
               alt=""
             />
           </div>

@@ -33,5 +33,12 @@ export const data = [
         id:6,
         title:"Drawing Competition",
         date:"14 july 2022",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2Fdrawingkids.webp?alt=media&token=6679fcc4-7247-4219-8562-57c28df7ece9"
-    },]
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fdrawing%20(1).jpg?alt=media&token=e5adf835-d9f9-488d-8580-05a452342b76"
+    },
+    {
+        id:7,
+        title:"Cultural Performances",
+        date:"15 Aug 2022",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FmainImage%2F26jan.jpg?alt=media&token=59d47f44-0b73-4c21-880d-660bc2b7fb87"
+    }
+]

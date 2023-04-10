@@ -1,72 +1,142 @@
 export const imageGallerydata = [
     {
         id:1,
-        category:"children-day",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+        category:"republic-day",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fimages%2F26jan%20(1).webp?alt=media&token=f240d348-0038-4012-95c2-760308718aa9"
     },
     {
         id:2,
-        category:"science-day",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+        category:"republic-day",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fimages%2F26jan1%20(1).webp?alt=media&token=a1a39fe2-cb66-4cba-bc3a-0dc3368049a3"
     },
     {
         id:3,
-        category:"independence-day",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+        category:"republic-day",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fimages%2F26jan2.webp?alt=media&token=f7badd21-27f3-4a8c-847e-485c48100276"
     },
     {
         id:4,
-        category:"sports-day",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+        category:"republic-day",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fimages%2F26jan3.webp?alt=media&token=ccbb7719-d36d-490f-a6fb-5c5e6d07195d"
     },
     {
         id:5,
-        category:"math's-day",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+        category:"children-day",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fimages%2F14nov1.webp?alt=media&token=f03d8dcc-3e70-44ec-81df-259bab7fcc9b"
     },
     {
         id:6,
         category:"children-day",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fimages%2F14nov2.webp?alt=media&token=cb14a04f-acb3-46e2-b047-a7b3d54bcb48"
     },
     {
         id:7,
-        category:"sports-day",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+        category:"children-day",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fimages%2F14nov3.webp?alt=media&token=f915d244-49f0-4ec5-b8fd-34c0d531fdbb"
     },
     {
         id:8,
-        category:"sports-day",
-        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+        category:"children-day",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Fimages%2F14nov4.webp?alt=media&token=b03328be-e8e1-4357-8168-2eb2a920d079"
     },
     {
         id:9,
-        category:"independence-day",
+        category:"activity-day",
         imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
     },
     {
         id:10,
-        category:"children-day",
+        category:"activity-day",
         imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
     },
     {
         id:11,
-        category:"independence-day",
+        category:"activity-day",
         imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
     },
     {
         id:12,
-        category:"sports-day",
+        category:"activity-day",
         imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
     },
     {
         id:13,
-        category:"teacher's-day",
+        category:"cultural-performances",
         imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
     },
     {
         id:14,
-        category:"teacher's-day",
+        category:"cultural-performances",
         imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
-    }
+    },
+    {
+        id:15,
+        category:"cultural-performances",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+    },
+    {
+        id:16,
+        category:"cultural-performances",
+        imgSrc:"https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+    },
+    {
+        id:17,
+        category:"outing",
+        imgSrc:""
+    },
+    {
+        id:18,
+        category:"outing",
+        imgSrc:""
+    },
+    {
+        id:19,
+        category:"outing",
+        imgSrc:""
+    }, 
+    {
+        id:20,
+        category:"outing",
+        imgSrc:""
+    },
+    {
+        id:21,
+        category:"summer-camp",
+        imgSrc:""
+    },
+    {
+        id:22,
+        category:"summer-camp",
+        imgSrc:""
+    },
+    {
+        id:23,
+        category:"summer-camp",
+        imgSrc:""
+    },
+    {
+        id:24,
+        category:"summer-camp",
+        imgSrc:""
+    },
+    {
+        id:25,
+        category:"drawing-competition",
+        imgSrc:""
+    },
+    {
+        id:26,
+        category:"drawing-competition",
+        imgSrc:""
+    },
+    {
+        id:26,
+        category:"drawing-competition",
+        imgSrc:""
+    },
+    {
+        id:27,
+        category:"drawing-competition",
+        imgSrc:""
+    },
 ]

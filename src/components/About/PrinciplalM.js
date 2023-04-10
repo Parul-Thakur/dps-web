@@ -7,7 +7,7 @@ const PrinciplalM = () => {
   return (
     <>
     <div className="aboutBanner">
-      <img src="https://img.freepik.com/free-photo/top-view-copy-space-colorful-pencils-green-background_141793-11456.jpg?w=1480&t=st=1680293791~exp=1680294391~hmac=6f3270babb6b8859f709ca268c3e40b3d226c69d16cd0378c600d7213bed9f68" alt="aboutBanner" />
+      <img src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fabout%20(1)_11zon.jpg?alt=media&token=039ad8b0-1564-475b-b40c-4e77e8da9570" alt="aboutBanner" />
     </div>
       <div className="messageContainer">
         <IconContext.Provider value={{ className: "icon2" }}>

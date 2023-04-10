@@ -82,6 +82,10 @@
     flex: 100%;
     text-align: center;
   }
+  .usefulDownloads .links >.link,.usefulLinks{
+    text-align: center;
+   
+  }
   .links h1 {
     font-size: 1.5rem;
   }

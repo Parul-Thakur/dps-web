@@ -41,28 +41,28 @@ const Additional = () => {
       <div className="additionalGrid">
         <div className="column-one">
           <img
-            src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2FBanner.jpg?alt=media&token=1d6d4c62-6feb-449b-9abd-412b0ec34984"
+            src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Factivity%20(1)%20(1).jpg?alt=media&token=ef82efff-2fc9-4825-a32c-b120c91b19cb"
             alt=""
           />
         </div>
         <div className="column-two">
           <img
-            src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2FDSCN0174%20(1).jpg?alt=media&token=90948ec4-e7d5-4bd7-8fc9-86dab40cee9b"
+            src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fcarrom%20board_11zon.jpg?alt=media&token=17e95c95-bef1-42f0-9a7a-40332f6ade15"
             alt=""
           />
         
         <img
-          src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider.jpg?alt=media&token=0cbed583-bf6d-4b5c-ae1c-619d3e0f785b"
+          src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fpaimtingkids_11zon.jpg?alt=media&token=b26c8871-a3a1-4b73-95f1-0c8439501c12"
           alt=""
         />
         </div>
         <div className="column-three">
           <img
-            src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider2.jpg?alt=media&token=3bcc857b-6e5c-4822-93c7-94d3f3caeda0"
+            src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fplanting.webp?alt=media&token=fa15fb00-56c0-4b77-81e4-5fcfae9beacb"
             alt=""
           />
           <img
-            src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fabout%2Fslider3.jpg?alt=media&token=b3396ffe-784b-44bb-b0b2-354ac2d39b67"
+            src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Facademics%2Fdrawing%20(1)%20(1).jpg?alt=media&token=6d855dcb-8abf-4a22-b87a-120a36472327"
             alt=""
           />
         </div>

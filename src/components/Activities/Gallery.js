@@ -6,12 +6,12 @@ import { data } from "./GalleryData";
 const Gallery = () => {
   return (
     <>
-      <div className="activityBanner">
+      {/* <div className="activityBanner">
         <img
           src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Factivity%2Factivitybanner.webp?alt=media&token=d68b9470-4489-437b-be3a-24b8a7aa4ab5"
           alt=""
         />
-      </div>
+      </div> */}
       <div className="activityGallery">
         <p>MUCH MORE THAN JUST AN EDUCATION</p>
         <h1>EXTRA CURRICULAR ACTIVITIES</h1>
