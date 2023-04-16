@@ -5,10 +5,10 @@ import { Link } from "react-router-dom";
 
 const DivineWelcome = () => {
   const image =
-    "https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FmainImage%2FwelcomeDivine.jpg?alt=media&token=37920764-b436-46e6-aa04-67219dbf2453";
+    "https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FmainImage%2FwelcomeDivine.jpg?alt=media&token=6e627db8-1296-4381-ac69-5205ede2703d";
 
   const blurImage =
-    "https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FcompressedImages%2FwelcomeDivine_11zon_11zon_11zon.webp?alt=media&token=c4f1d2c3-c819-4d8b-b7c8-36a4d1f53ebe";
+    "https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FcompressedImages%2FwelcomeDivine_11zon_11zon_11zon.webp?alt=media&token=6bf277fb-b984-4b34-adad-b90ba5efa627";
   return (
     <div className="welcome">
       <div className="welcomeImage">

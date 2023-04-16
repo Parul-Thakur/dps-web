@@ -9,6 +9,10 @@ import {
 import { IconContext } from "react-icons/lib";
 
 const Testimonials = () => {
+
+  const blurhash = "https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FcompressedImages%2FOIP_11zon.jpg?alt=media&token=2997309c-c14b-43d5-a61d-b7dc3a753ecb";
+
+
   const [currentSlide, setCurrentSlide] = useState(0);
   const slideLength = TestimonialData.length;
 
@@ -58,7 +62,7 @@ const Testimonials = () => {
                       <div className="col testimonialImage">
                         <ProgressiveImage
                           src={data.image}
-                          placeholder={data.blurhash}
+                          placeholder={blurhash}
                         >
                           {(src, loading) => (
                             <img

@@ -19,12 +19,12 @@
   opacity: 0;
   transition: 0.2s ease-in-out;
 }
-.navigation{
+.navigation {
   background-color: rgb(30, 25, 107);
-  padding: .8rem;
+  padding: 0.8rem;
   border-radius: 50%;
 }
-.navigation:hover{
+.navigation:hover {
   background-color: white;
 }
 .navigation1 {
@@ -35,6 +35,17 @@
   width: 40%;
   opacity: 1;
   transition: 0.2s ease-in-out;
+  animation: slide 1s ease-in-out;
+  
+}
+@keyframes slide {
+  0% {
+    transform:  translatex(-70%);
+  }
+
+  100% {
+    transform:  translatex(0%);
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -45,9 +56,7 @@
   .navLogo img {
     width: 30%;
   }
-  .navigation{
-    padding: .5rem;
-
+  .navigation {
+    padding: 0.5rem;
   }
-
 }

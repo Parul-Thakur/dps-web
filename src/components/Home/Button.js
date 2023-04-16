@@ -7,7 +7,6 @@ import { useState } from "react";
 import { SidebarData } from "./SidebarData";
 import { IconContext } from "react-icons/lib";
 
-
 const Button = () => {
   const [sidebar, setSidebar] = useState(false);
 
@@ -28,7 +27,6 @@ const Button = () => {
             <img
               src="https://firebasestorage.googleapis.com/v0/b/divine-public-school-e196f.appspot.com/o/websiteImages%2Fhome%2FmainImage%2Fchildrenback.webp?alt=media&token=dbcc6f9e-914e-4396-bdde-419682f72dd1"
               alt="menuImage"
-
             />
           </div>
           <div className="navMenuItem">

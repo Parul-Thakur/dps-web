@@ -13,7 +13,8 @@
 
 
 .menuBars:active {
-  transform: translateY(7px);
+  transform: translateY(-3px);
+
  
 }
 .menuBars2 {
@@ -24,7 +25,7 @@
   cursor: pointer;
 }
 .menuBars2:active {
-  transform: translateY(7px);
+  transform: translateY(-3px);
 }
 .navMenu {
   background-color: var(--blue);
