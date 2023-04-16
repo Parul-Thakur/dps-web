@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9eb4ca63.css",
+    "main.js": "/static/js/main.fe663b4b.js",
+    "static/media/divineLogo.svg": "/static/media/divineLogo.3f57096b2ccf76eab90466b1c6fc47af.svg",
+    "index.html": "/index.html",
+    "main.9eb4ca63.css.map": "/static/css/main.9eb4ca63.css.map",
+    "main.fe663b4b.js.map": "/static/js/main.fe663b4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9eb4ca63.css",
+    "static/js/main.fe663b4b.js"
+  ]
+}
